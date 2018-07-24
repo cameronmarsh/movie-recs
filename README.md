@@ -1,1 +1,1 @@
-# movieRecs
+# movie-recs
